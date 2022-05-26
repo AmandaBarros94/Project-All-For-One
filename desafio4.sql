@@ -1,1 +1,1 @@
-SELECT COUNT(product_name) FROM nortwind.products;
+SELECT COUNT(product_name) FROM northwind.products;
